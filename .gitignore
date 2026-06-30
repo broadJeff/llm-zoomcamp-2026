@@ -1,0 +1,6 @@
+.env
+*.db
+faq.db*
+*.db-shm
+*.db-wal
+/alex_cloned_repo/
